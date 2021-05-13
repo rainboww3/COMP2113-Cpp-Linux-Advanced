@@ -1,6 +1,6 @@
 # ENGG1340-AdvCpp-Linux
 
-Learning more about c++ language and linux.   
+Learning more about c, c++ language and linux.    
 
 -Linux environment   
 -Shell script, version control   
