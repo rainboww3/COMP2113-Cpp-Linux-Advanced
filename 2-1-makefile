@@ -1,0 +1,12 @@
+gcd.o: gcd.cpp gcd.h
+	g++ -c gcd.cpp
+
+lcm.o: lcm.cpp lcm.h
+	g++ -c lcm.cpp
+
+calc.o : gcd.cpp lcm.cpp
+	g++ -c gcd.cpp lcm.cpp -o calc
+
+
+clean:
+	rm -f calc *.o
