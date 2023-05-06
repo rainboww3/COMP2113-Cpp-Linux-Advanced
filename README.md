@@ -1,4 +1,4 @@
-# ENGG1340: C++ and Linux Advance Questions
+# ENGG1340: C++ and Linux Advanced Questions
 
 Learning more about c, c++ and linux.    
 
