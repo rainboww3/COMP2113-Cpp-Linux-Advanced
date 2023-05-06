@@ -2,6 +2,8 @@
 
 Solving questions related to C, C++ and Linux.    
 
+Topics related to:
+
 -Linux environment   
 -Shell script, version control   
 -makefile, programming style, basic debugging   
