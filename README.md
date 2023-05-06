@@ -1,6 +1,6 @@
-# ENGG1340-Cpp-Linux-Advance
+# ENGG1340: C++ and Linux Advance Questions
 
-Learning more about c, c++ language and linux.    
+Learning more about c, c++ and linux.    
 
 -Linux environment   
 -Shell script, version control   
@@ -10,5 +10,3 @@ Learning more about c, c++ language and linux.
 -file I/O, structs, recursion   
 -pointers, memory management   
 -STL   
-
-
