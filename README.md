@@ -1,6 +1,6 @@
 # ENGG1340: C++ and Linux Advanced Questions
 
-Learning more about c, c++ and linux.    
+Solving questions related to C, C++ and Linux.    
 
 -Linux environment   
 -Shell script, version control   
