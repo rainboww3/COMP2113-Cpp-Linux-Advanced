@@ -1,6 +1,6 @@
 # ⚡COMP2113: C++ and Linux Advanced Questions
 
-Solving questions related to C, C++ and Linux.    
+Improve C++ and Linux problem solving skills by Solving questions related to C, C++ and Linux.    
 
 ## Topics related to:
 
